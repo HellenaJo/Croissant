@@ -1,0 +1,17 @@
+a{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+    color:mediumvioletred;
+}
+
+.bread{
+    display: block;
+    margin: 0 auto;
+}
+ h1{
+     color: orangered;
+     text-align: center;
+ }
